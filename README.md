@@ -1,2 +1,2 @@
-# logo
-Dave Yoffe web logo (logotype).
+# Logo
+Dave Yoffe's web logo (logotype).
