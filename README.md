@@ -7,12 +7,12 @@ Basic version (b/w)
 [img]  
   
     
-Color vesions  
+Color versions  
   
 [img]  
   
     
-Alternate vesions (avatar)  
+Alternate versions (avatar)  
   
 [img]  
   
