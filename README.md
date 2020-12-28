@@ -2,7 +2,7 @@
 Dave Yoffe's web logotype (logo)  
 Version 1.2  
   
-Basic version (b/w) 
+Main 
   
 [img]  
   
