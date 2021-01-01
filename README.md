@@ -1,5 +1,5 @@
 # Logo
-Dave Yoffe's web logotype (logo)  
+Dave Yoffe's web logo (logotype)
 Version 1.2  
   
 Main 
@@ -7,12 +7,12 @@ Main
 [img]  
   
     
-Color versions  
+Colors  
   
 [img]  
   
     
-Alternate versions (avatar)  
+Alternate (avatars)  
   
 [img]  
   
