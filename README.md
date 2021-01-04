@@ -12,7 +12,7 @@ Colors
 [img]  
   
     
-Alternate (avatars)  
+Alternate
   
 [img]  
   
